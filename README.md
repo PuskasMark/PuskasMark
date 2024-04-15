@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-I'm Mark and I am a student at ELTE learning Computer Science.
+I'm Mark and I am a student at ELTE, learning Computer Science.
 
 - 📫 How to reach me: mpuskas111@gmail.com
 
